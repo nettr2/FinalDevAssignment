@@ -5,7 +5,6 @@
  
     <h1 class="Atitle">BIT ATTENDANCE SCREEN</h1>
      <img src="../assets/key.PNG" class="key"/>
-     <!-- <Totals></Totals> -->
      <h2 class="Btitle">Paper + Stream</h2>
      <Totals></Totals>
     <MarkAttendance></MarkAttendance>
