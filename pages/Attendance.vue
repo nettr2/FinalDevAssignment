@@ -4,7 +4,7 @@
     <b-link href="/"><button class="back">BACK</button></b-link>
  
     <h1 class="Atitle">BIT ATTENDANCE SCREEN</h1>
-     <img src="../assets/key.PNG" class="key"/>
+     <img src="../assets/Key.PNG" class="key"/>
      <h2 class="Btitle">Paper + Stream</h2>
      <Totals></Totals>
     <MarkAttendance></MarkAttendance>
